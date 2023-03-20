@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sadjoebright.github.io/rsschool-cv/
