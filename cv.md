@@ -13,3 +13,25 @@ So I decided to change career and now I'm starting to learning frontend developm
 - CSS
 - Git
 - JavaScript (Basic)
+## Code example
+```
+function repeatStr (n, s) {
+  let i = 0;
+  let str = '';
+  while (i < n) {
+    str = `${str}${s}`;
+    i = i + 1;
+  }
+  return str;
+}
+```
+## Education
+**Belarussian National Technical University**
+Industrial and civil engineering
+
+**RS-School**
+Industrial and civil engineering
+
+## Languages
+- Russian - native speaker
+- English - A2
