@@ -30,7 +30,7 @@ function repeatStr (n, s) {
 Industrial and civil engineering
 
 **RS-School**
-Industrial and civil engineering
+JSFEPRESCHOOL2022Q2
 
 ## Languages
 - Russian - native speaker
